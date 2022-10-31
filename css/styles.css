@@ -1,0 +1,52 @@
+.meFlexing {
+  display: block;
+  max-width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.team {
+  display: block;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.teamTxt {
+  text-align: center;
+}
+.title {
+  text-align: center;
+}
+.starting {
+  text-align: center;
+}
+.intro {
+  text-align: center;
+}
+.sport {
+  text-decoration-thickness: auto;
+}
+.tootMyHorn {
+  text-align: center;
+}
+.wresting {
+  text-decoration-thickness: auto;
+}
+.swole {
+  text-align: center;
+}
+.meSwole {
+  text-align: center;
+}
+.funFact {
+    text-align: center;
+}
+.deadlift {
+    display: block;
+    width:30%;
+    margin-left: auto;
+    margin-right: auto;
+    animation-play-state: running;
+}
+.deadliftVideo {
+    text-align: center;
+}
