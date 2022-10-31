@@ -1,52 +1,130 @@
 .meFlexing {
-  display: block;
-  max-width: 25%;
-  margin-left: auto;
-  margin-right: auto;
+    display: block;
+    max-width: 25%;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 .team {
-  display: block;
-  width: 30%;
-  margin-left: auto;
-  margin-right: auto;
+    display: block;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 .teamTxt {
-  text-align: center;
-}
-.title {
-  text-align: center;
-}
-.starting {
-  text-align: center;
-}
-.intro {
-  text-align: center;
-}
-.sport {
-  text-decoration-thickness: auto;
-}
-.tootMyHorn {
-  text-align: center;
-}
-.wresting {
-  text-decoration-thickness: auto;
-}
-.swole {
-  text-align: center;
-}
-.meSwole {
-  text-align: center;
-}
-.funFact {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
+
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.starting {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.intro {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.sport {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-thickness: auto;
+}
+
+.sportlist {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tootMyHorn {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.wresting {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-thickness: auto;
+}
+
+.swole {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.meSwole {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.funFact {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
 .deadlift {
     display: block;
-    width:30%;
+    width: 50%;
+    height: 50%;
     margin-left: auto;
     margin-right: auto;
     animation-play-state: running;
 }
+
 .deadliftVideo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.wrestlingList {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.powerliftingList {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.instagram {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.personal {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.animals {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.AnimalType {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.animalNames {
+    padding: 2px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
